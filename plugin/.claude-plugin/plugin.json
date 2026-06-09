@@ -1,0 +1,10 @@
+{
+  "name": "claude-skills",
+  "description": "Pacote com 2 skills: precise-coding (mudanças de código precisas — lê antes de editar, não inventa API/coluna/env, mostra diff, verifica no estado real, cuidado em dinheiro/fiscal/segurança) + orchestrator-mode (Opus orquestra, decide e revisa; delega execução pesada/divisível a subagentes Sonnet/Haiku de forma conservadora, mantendo risco e produção no Opus).",
+  "version": "1.0.0",
+  "author": {
+    "name": "adailtonguitar",
+    "url": "https://github.com/adailtonguitar"
+  },
+  "license": "MIT"
+}
