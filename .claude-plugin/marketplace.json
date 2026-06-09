@@ -1,0 +1,19 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "adailtonguitar",
+    "url": "https://github.com/adailtonguitar"
+  },
+  "plugins": [
+    {
+      "name": "precise-coding",
+      "source": "./precise-coding",
+      "description": "Mudanças de código precisas e econômicas: ler antes de editar, casar convenções, não inventar API/coluna/env, diff em vez de arquivo inteiro, verificar contra o estado real; cuidado extra em dinheiro/fiscal/segurança."
+    },
+    {
+      "name": "orchestrator-mode",
+      "source": "./orchestrator-mode",
+      "description": "Opus orquestra e decide; delega execução pesada/divisível a subagentes Sonnet/Haiku (conservador, retorno compacto) pra distribuir custo de tokens, mantendo risco e review no Opus."
+    }
+  ]
+}

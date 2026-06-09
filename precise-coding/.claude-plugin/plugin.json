@@ -1,0 +1,10 @@
+{
+  "name": "precise-coding",
+  "description": "Mudanças de código precisas + econômicas em tokens. Lê o arquivo real antes de editar, casa convenções, não inventa API/assinatura/coluna/env/caminho, mostra diff, verifica contra o estado real; cuidado redobrado em dinheiro/fiscal/segurança/dados de cliente.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adailtonguitar",
+    "url": "https://github.com/adailtonguitar"
+  },
+  "license": "MIT"
+}
